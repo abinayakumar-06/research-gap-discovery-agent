@@ -1,0 +1,17 @@
+# Local workspace streamlit configuration
+[server]
+headless = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#3478F6"
+backgroundColor = "#F5F8FD"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#14213D"
+font = "sans serif"

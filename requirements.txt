@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+python-dotenv
+numpy
+scikit-learn
+networkx
+PyMuPDF
+pytesseract
+Pillow
+reportlab
+python-docx
+requests
+pytest
