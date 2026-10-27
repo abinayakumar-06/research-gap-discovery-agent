@@ -8,13 +8,33 @@
 
 A professional, competition-ready AI research platform that analyzes academic research literature, synthesizes findings across multiple studies, identifies potential research gaps, traces every gap to supporting evidence, detects conflicting findings, prioritizes research directions transparently, verifies literature against external registries, and generates structured grant/project proposals.
 
+# Research Literature Synthesis & Research-Gap Discovery Platform
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.58%2B-FF4B4B.svg)](https://streamlit.io/)
+[![PyMuPDF](https://img.shields.io/badge/PyMuPDF-2.0-orange.svg)](https://pymupdf.readthedocs.io/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.9%2B-F7931E.svg)](https://scikit-learn.org/)
+[![Tests](https://img.shields.io/badge/Pytest-14%20Tests-brightgreen.svg)](https://github.com/abinayakumar-06/research-gap-discovery-agent/blob/main)
+
+## 🚀 Live Demo
+
+**Try ResearchFlow AI online:**
+
+👉 **[Launch ResearchFlow AI — Streamlit App](https://research-gap-discovery-agent-5kn35pzqis3r6dy9oxakpr.streamlit.app/)**
+
+Explore the interactive Evidence Explorer, literature synthesis, research-gap discovery, contradiction analysis, gap prioritization, and research proposal generation.
+
+---
+
+A professional, competition-ready AI research platform that analyzes academic research literature, synthesizes findings across multiple studies, identifies potential research gaps, traces every gap to supporting evidence, detects conflicting findings, prioritizes research directions transparently, verifies literature against external registries, and generates structured grant/project proposals.
+
 Unlike superficial PDF summarizers, this platform strictly enforces **scientific provenance**:
+
 - Distinguishes extracted facts from AI interpretations.
 - Every factual claim links to source passages and page references.
 - Warns against invalid cross-study numerical comparisons.
 - Never claims global novelty without external verification.
 
----
 
 ## 🌟 Core Architecture & Platform Modules
 
