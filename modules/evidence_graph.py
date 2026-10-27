@@ -290,8 +290,10 @@ class EvidenceGraphEngine:
 
         fig = go.Figure(data=[edge_trace, edge_label_trace] + node_traces)
         fig.update_layout(
-            title="Interactive Research Evidence & Gap Lineage Network",
-            titlefont_size=15,
+            title=dict(
+                text="Interactive Research Evidence & Gap Lineage Network",
+                font=dict(size=15)
+            ),
             showlegend=True,
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
             hovermode="closest",
