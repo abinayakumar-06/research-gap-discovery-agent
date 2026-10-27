@@ -8,14 +8,6 @@
 
 A professional, competition-ready AI research platform that analyzes academic research literature, synthesizes findings across multiple studies, identifies potential research gaps, traces every gap to supporting evidence, detects conflicting findings, prioritizes research directions transparently, verifies literature against external registries, and generates structured grant/project proposals.
 
-# Research Literature Synthesis & Research-Gap Discovery Platform
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.58%2B-FF4B4B.svg)](https://streamlit.io/)
-[![PyMuPDF](https://img.shields.io/badge/PyMuPDF-2.0-orange.svg)](https://pymupdf.readthedocs.io/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.9%2B-F7931E.svg)](https://scikit-learn.org/)
-[![Tests](https://img.shields.io/badge/Pytest-14%20Tests-brightgreen.svg)](https://github.com/abinayakumar-06/research-gap-discovery-agent/blob/main)
-
 ## 🚀 Live Demo
 
 **Try ResearchFlow AI online:**
